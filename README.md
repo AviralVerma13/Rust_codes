@@ -1,2 +1,2 @@
-# Rust_codes
+# Rust codes
 Contains self developed Rust codes
